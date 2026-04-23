@@ -1,6 +1,6 @@
 # Hi, I’m Mariia 👋
 
-Business Informatics student based in Hamburg with practical experience in SAP-related processes, business analysis, and software development.
+Business Informatics student based in Hamburg with practical experience in SAP-related processes, process documentation, and software development.
 
 I combine business understanding with technical implementation — from process analysis in SAP environments to building web and mobile applications.
 
@@ -56,8 +56,7 @@ I combine business understanding with technical implementation — from process 
 **Aurubis AG (Duales Studium)**
 
 * Exposure to SAP-based business processes and system environments
-* Process analysis in Treasury and Hedging context
-* Conducted stakeholder interviews and structured requirements
+* Gained insight into SAP-based business processes across multiple areas
 * Created internal documentation and reports
 * Built training videos using Synthesia for digital shopfloor system (EviView)
 
@@ -68,7 +67,8 @@ I combine business understanding with technical implementation — from process 
 * Python (Machine Learning, Data Analysis)  
 * PHP, JavaScript, HTML, CSS
 * Flutter (Dart)
-* ABAP (Grundlagen, Schnittstellen) 
+* ABAP (basic knowledge, interface development)
+* C (basic knowledge) 
 * MySQL, Hive (NoSQL)
 * Git, GitHub, XAMPP
 
