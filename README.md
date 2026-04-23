@@ -65,8 +65,10 @@ I combine business understanding with technical implementation — from process 
 
 ## 🛠 Tech Stack
 
+* Python (Machine Learning, Data Analysis)  
 * PHP, JavaScript, HTML, CSS
 * Flutter (Dart)
+* ABAP (Grundlagen, Schnittstellen) 
 * MySQL, Hive (NoSQL)
 * Git, GitHub, XAMPP
 
@@ -76,7 +78,6 @@ I combine business understanding with technical implementation — from process 
 
 * Email: [Mariya.didychuk@gmail.com](mailto:Mariya.didychuk@gmail.com)
 * GitHub: https://github.com/mariadidychuk
-## Hi there 👋
 
 <!--
 **mariadidychuk/mariadidychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
